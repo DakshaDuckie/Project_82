@@ -1,0 +1,17 @@
+body
+{
+  background-image: url("https://images.unsplash.com/photo-1603697149080-468e3a81cadf?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTY0NzM5MDAzMA&ixlib=rb-1.2.1&q=85");
+  text-align: center;
+}
+
+#myCanvas
+{
+  background-color: white;
+  border-style: ridge;
+  border-width: 15px;
+}
+
+span
+{
+  margin-right: 20px;
+}
